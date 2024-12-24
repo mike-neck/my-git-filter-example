@@ -1,0 +1,5 @@
+     1	item = foo
+     2	item = bar
+     3	
+     4	item = baz
+     5	
